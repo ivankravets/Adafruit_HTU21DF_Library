@@ -1,0 +1,17 @@
+{
+  "name": "Adafruit_HTU21DF",
+  "keywords": "sensor, humidity, temperature, i2c",
+  "description": "Library for the HTU21D-F humidity and temperature sensors",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_HTU21DF_Library.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "atmelsam",
+    "teensy"
+  ]
+}
